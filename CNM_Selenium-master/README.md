@@ -34,11 +34,7 @@
 ⚡ Skill Matrix
 ⚡ Training Plan
 
-<<<<<<< HEAD
 - 🌱 **Click-N-Profile**
-=======
-- 🌱 Click-N-Profile
->>>>>>> c212156 (New Module)
 ⚡ Profile
 ⚡ Change Password
 ⚡ Logout
