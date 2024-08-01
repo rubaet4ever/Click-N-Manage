@@ -1,47 +1,56 @@
-- 🔭 **Click-N-Manage:- 🌱 Modules & Menus**
 
-<h1 align="left">Click-N-Doc</h1> 
+<h1 align="left">Click-N-Manage</h1>
+  
+I have implemented using Java language with Web-automation test project Selenium Web-Driver, JUnit, Extentreports, and worked with TestNG in this project.
+
+The website link is localhost.
+
+<h1 align="left">Task</h1>
+
+🔭 **Modules 🌱 Menus**
+
+<h2 align="left">Click-N-Doc</h2> 
 
 ⚡ Employees
 ⚡ Title & Roles
 ⚡ Documents
 ⚡ Procedures & Phases
 
-<h1 align="left">Click-N-Share</h1> 
+<h2 align="left">Click-N-Share</h2> 
 
 ⚡ Access Roles
 ⚡ Users
 ⚡ Sub-Organizations
 
-<h1 align="left">Click-N-Act</h1>
+<h2 align="left">Click-N-Act</h2>
 
 ⚡ Non-conformances
 ⚡ Actions
 ⚡ Indicators
 
-<h1 align="left">Click-N-Maintain</h1>
+<h2 align="left">Click-N-Maintain</h2>
 
 ⚡ Systems
 ⚡ Assets
 
-<h1 align="left">Click-N-Secure</h1>
+<h2 align="left">Click-N-Secure</h2>
 
 ⚡ Assets
 ⚡ Risk Matrix
 ⚡ Risks Group & Risks
 
-<h1 align="left">Click-N-Check</h1>
+<h2 align="left">Click-N-Check</h2>
 
 ⚡ Requirements
 ⚡ Objectives Group & Objectives
 
-<h1 align="left">Click-N-Train</h1>
+<h2 align="left">Click-N-Train</h2>
 
 ⚡ Skills
 ⚡ Skill Matrix
 ⚡ Training Plan
 
-<h1 align="left">Click-N-Profile</h1>
+<h2 align="left">Click-N-Profile</h2>
 
 ⚡ Profile
 ⚡ Change Password
@@ -53,7 +62,7 @@
 - Framework: Selenium
 - IDE: Eclipse
 - Build tool: Maven
-- Language: Java
+- Language: Java, Javascript, HTML & CSS
 - Test_Runner: TestNG
 - Report - ExtentReports
   
