@@ -1,40 +1,70 @@
-- 🔭 **Modules & Menus (Features)** :
+- 🔭 **Click-N-Manage:- 🌱 Modules & Menus**
 
-- 🌱 **Click-N-Doc**
+<h1 align="left">Click-N-Doc</h1> 
+
 ⚡ Employees
 ⚡ Title & Roles
 ⚡ Documents
 ⚡ Procedures & Phases
 
-- 🌱 **Click-N-Share**
+<h1 align="left">Click-N-Share</h1> 
+
 ⚡ Access Roles
 ⚡ Users
 ⚡ Sub-Organizations
 
-- 🌱 **Click-N-Act**
+<h1 align="left">Click-N-Act</h1>
+
 ⚡ Non-conformances
 ⚡ Actions
 ⚡ Indicators
 
-- 🌱 **Click-N-Maintain**
+<h1 align="left">Click-N-Maintain</h1>
+
 ⚡ Systems
 ⚡ Assets
 
-- 🌱 **Click-N-Secure**
+<h1 align="left">Click-N-Secure</h1>
+
 ⚡ Assets
 ⚡ Risk Matrix
 ⚡ Risks Group & Risks
 
-- 🌱 **Click-N-Check**
+<h1 align="left">Click-N-Check</h1>
+
 ⚡ Requirements
 ⚡ Objectives Group & Objectives
 
-- 🌱 **Click-N-Train**
+<h1 align="left">Click-N-Train</h1>
+
 ⚡ Skills
 ⚡ Skill Matrix
 ⚡ Training Plan
 
-- 🌱 **Click-N-Profile**
+<h1 align="left">Click-N-Profile</h1>
+
 ⚡ Profile
 ⚡ Change Password
 ⚡ Logout
+
+
+<h1 align="left">Technology</h1>
+  
+- Framework: Selenium
+- IDE: Eclipse
+- Build tool: Maven
+- Language: Java
+- Test_Runner: TestNG
+- Report - ExtentReports
+  
+<h1 align="left">PreRequisite</h1>
+  
+- Need to install JDK 17
+- Need internet connectivity
+  
+<h1 align="left">Run the Automation Script:</h1>
+  
+- Open Terminal from Eclipse
+- Type this command: (maven clean test)
+- Selenium will open the browser and start automation.
+- To View ExtentReports
